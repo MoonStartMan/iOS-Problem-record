@@ -91,4 +91,4 @@ This is a repository of records about problems encountered in iOS development
 
 ## UIView
 
-[iOS view的frame和bounds之区别位置和大小](UIView/iOS view的frame和bounds之区别位置和大小.md)<br />
+[iOSview的frame和bounds之区别位置和大小](UIView/iOSview的frame和bounds之区别位置和大小.md)<br />
