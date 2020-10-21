@@ -54,7 +54,7 @@ This is a repository of records about problems encountered in iOS development
 
 ## StoryBoard
 
-[iOS13移除 StoryBoard](StoryBoard/iOS13移除 StoryBoard.md)<br />
+[iOS13移除StoryBoard](StoryBoard/iOS13移除StoryBoard.md)<br />
 [iOS设置进入主界面](StoryBoard/iOS设置进入主界面.md)<br />
 [iOS设置APP图标](StoryBoard/iOS设置APP图标.md)<br />
 [iOS跳转到指定页面](StoryBoard/iOS跳转到指定页面.md)<br />
@@ -63,10 +63,10 @@ This is a repository of records about problems encountered in iOS development
 ## UIButton
 
 [for循环动态创建UIButton并赋予点击事件](UIButton/for循环动态创建UIButton并赋予点击事件.md)<br />
-[iOS UIButton同时设置图片及文字](UIButton/iOS UIButton同时设置图片及文字.md)<br />
+[iOS-UIButton同时设置图片及文字](UIButton/iOS-UIButton同时设置图片及文字.md)<br />
 [iOS-UIButton实现跳转页与返回](UIButton/iOS-UIButton实现跳转页与返回.md)<br />
 [iOS设置UIButton](UIButton/iOS设置UIButton.md)<br />
-[UIButton 设置图片在上文字在下且水平居中](UIButton/UIButton 设置图片在上文字在下且水平居中.md)<br />
+[UIButton设置图片在上文字在下且水平居中](UIButton/UIButton设置图片在上文字在下且水平居中.md)<br />
 
 ## UICollectionView
 
@@ -91,4 +91,4 @@ This is a repository of records about problems encountered in iOS development
 
 ## UIView
 
-[iOS view的frame和bounds之区别(位置和大小](UIView/iOS view的frame和bounds之区别(位置和大小).md)<br />
+[iOS view的frame和bounds之区别位置和大小](UIView/iOS view的frame和bounds之区别位置和大小.md)<br />
