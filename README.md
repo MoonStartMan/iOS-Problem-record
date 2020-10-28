@@ -24,6 +24,7 @@ This is a repository of records about problems encountered in iOS development
 [iOS设置字体属性](字体设置/iOS设置字体属性.md)<br />
 [iOS设置自定义字体](字体设置/iOS设置自定义字体.md)<br />
 [iOS字体大小自适应](字体设置/iOS字体大小自适应.md)<br />
+[iOS富文本设置](字体设置/iOS富文本设置.md)<br />
 
 ## 自定义组件
 
@@ -92,3 +93,18 @@ This is a repository of records about problems encountered in iOS development
 ## UIView
 
 [iOSview的frame和bounds之区别位置和大小](UIView/iOSview的frame和bounds之区别位置和大小.md)<br />
+
+## UITableView
+
+[UITableView的代理方法](UITableView/UITableView的代理方法.md)
+[tableView取消cell默认下划线](UITableView/tableView取消cell默认下划线.md)
+[UITableView](UITableView/UITableView.md)
+[UITableView性能优化](UITableView/UITableView性能优化.md)
+
+## UISwitch
+
+[UISwitch改变系统默认的颜色](UISwitch/UISwitch改变系统默认的颜色.md)
+
+## 导航栏设置
+
+[iOS导航栏相关设置](导航栏设置/iOS导航栏相关设置.md)
