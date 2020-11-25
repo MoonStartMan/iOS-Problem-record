@@ -39,11 +39,18 @@ vim Podfile
 
 ### 在Podfile输入相关代码
 
+1. 键盘输入i，进入编辑模式，输入
+
 ```
 platform :ios, '8.1'
-pod 'ANNetworking'
-pod 'MBProgressHUD', '~>0.8'
+use_frameworks!
+target '工程名' do
+	pod 'Masonry'
+end
 ```
+
+2. 然后按ESC
+3. 按住shift的同时按住冒号键（:）,然后输入wq(保存)
 
 ### 安装输入的相关插件
 
