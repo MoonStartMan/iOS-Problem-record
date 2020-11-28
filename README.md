@@ -122,3 +122,7 @@ This is a repository of records about problems encountered in iOS development
 ## 页面跳转的几种方式
 
 [iOS页面跳转的几种方式](页面跳转的几种方式/iOS页面跳转的几种方式.md) <br />
+
+## Objective-C 补充
+
+[Objective-C中new与allocinit的区别.md](Objective-C补充/Objective-C中new与allocinit的区别.md) <br />
