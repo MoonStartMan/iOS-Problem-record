@@ -125,4 +125,8 @@ This is a repository of records about problems encountered in iOS development
 
 ## Objective-C 补充
 
-[Objective-C中new与allocinit的区别.md](Objective-C补充/Objective-C中new与allocinit的区别.md) <br />
+[Objective-C中new与allocinit的区别](Objective-C补充/Objective-C中new与allocinit的区别.md) <br />
+
+## 生命周期
+
+[loadView、viewDidLoad及viewDidUnload的关系](生命周期/loadView、viewDidLoad及viewDidUnload的关系.md) <br />
