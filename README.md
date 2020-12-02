@@ -130,3 +130,4 @@ This is a repository of records about problems encountered in iOS development
 ## 生命周期
 
 [loadView、viewDidLoad及viewDidUnload的关系](生命周期/loadView、viewDidLoad及viewDidUnload的关系.md) <br />
+[iOS-APP的生命周期及界面的生命周期](生命周期/iOS-APP的生命周期及界面的生命周期.md)<br />
