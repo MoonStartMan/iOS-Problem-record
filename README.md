@@ -131,3 +131,7 @@ This is a repository of records about problems encountered in iOS development
 
 [loadView、viewDidLoad及viewDidUnload的关系](生命周期/loadView、viewDidLoad及viewDidUnload的关系.md) <br />
 [iOS-APP的生命周期及界面的生命周期](生命周期/iOS-APP的生命周期及界面的生命周期.md)<br />
+
+## Xcode设置
+
+[xCode删除SceneDelegate以及main.storyborad](Xcode设置/xCode删除SceneDelegate以及main.storyborad.md)<br />
