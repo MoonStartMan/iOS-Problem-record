@@ -73,6 +73,9 @@ This is a repository of records about problems encountered in iOS development
 ## UICollectionView
 
 [UICollectionViewCell点击事件](UICollectionView/UICollectionViewCell点击事件.md)<br />
+[iOS设置UICollectionViewCell的间距](UICollectionview/iOS设置UICollectionViewCell的间距.md)<br />
+[iOS开发 tableViewcollectionView获取当前点击的cell](UICollectionview/iOS开发 tableViewcollectionView获取当前点击的cell.md)<br />
+[UICollectionView-自定义UICollectionViewFlowLayout](UICollectionView/UICollectionView-自定义UICollectionViewFlowLayout.md)
 
 ## UIImageView
 
@@ -126,6 +129,7 @@ This is a repository of records about problems encountered in iOS development
 ## Objective-C 补充
 
 [Objective-C中new与allocinit的区别](Objective-C补充/Objective-C中new与allocinit的区别.md) <br />
+[NSMakeRange](Objective-C/NSMakeRange.md)<br />
 
 ## 生命周期
 
@@ -135,3 +139,8 @@ This is a repository of records about problems encountered in iOS development
 ## Xcode设置
 
 [xCode删除SceneDelegate以及main.storyborad](Xcode设置/xCode删除SceneDelegate以及main.storyborad.md)<br />
+
+## UILabel
+
+[UILabel自适应宽高](UILabel/UILabel自适应宽高.md)<br />
+[UILabel相关知识](UILabel/UILabel相关知识.md)<br />
