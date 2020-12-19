@@ -129,7 +129,9 @@ This is a repository of records about problems encountered in iOS development
 ## Objective-C 补充
 
 [Objective-C中new与allocinit的区别](Objective-C补充/Objective-C中new与allocinit的区别.md) <br />
-[NSMakeRange](Objective-C/NSMakeRange.md)<br />
+[NSMakeRange](Objective-C补充/NSMakeRange.md)<br />
+[NSRange](Objective-C补充/NSRange.md)<br />
+[iOS-NSIndexSet和NSMutableIndexSet](Objective-C补充/iOS-NSIndexSet和NSMutableIndexSet.md)<br />
 
 ## 生命周期
 
