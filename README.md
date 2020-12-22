@@ -132,6 +132,7 @@ This is a repository of records about problems encountered in iOS development
 [NSMakeRange](Objective-C补充/NSMakeRange.md)<br />
 [NSRange](Objective-C补充/NSRange.md)<br />
 [iOS-NSIndexSet和NSMutableIndexSet](Objective-C补充/iOS-NSIndexSet和NSMutableIndexSet.md)<br />
+[atomatic和nonatomic区别和理解](Objective-C补充/atomatic和nonatomic区别和理解.md)<br />
 
 ## 生命周期
 
