@@ -85,6 +85,7 @@ This is a repository of records about problems encountered in iOS development
 [UIImage拉伸图片](UIImageView/UIImage拉伸图片.md)<br />
 [UIImage图片重新绘制背景色](UIImageView/UIImage图片重新绘制背景色.md)<br />
 [iOS-UIimageView的contentMode属性](UIImageView/iOS-UIimageView的contentMode属性.md)<br />
+[iOS-UIImage渲染模式-imageWithRenderingMode](UIImageView/iOS-UIImage渲染模式-imageWithRenderingMode.md)<br />
 
 ## UIScrollView
 
