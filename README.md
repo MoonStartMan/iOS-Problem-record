@@ -43,11 +43,12 @@ This is a repository of records about problems encountered in iOS development
 [iOS实战项目报错](error/iOS实战项目报错.md)<br />
 [找不到UIWindow解决办法](error/找不到UIWindow解决办法.md)<br />
 
-## layout
+## layer
 
-[iOS实战项目报错](layout/iOS实战项目报错.md)<br />
-[iOS设置圆角](layout/iOS设置圆角.md)<br />
-[iOS使用贝塞尔曲线画圆角及指定位置圆角](layout/iOS使用贝塞尔曲线画圆角及指定位置圆角.md)<br />
+[iOS实战项目报错](layer/iOS实战项目报错.md)<br />
+[iOS设置圆角](layer/iOS设置圆角.md)<br />
+[iOS使用贝塞尔曲线画圆角及指定位置圆角](layer/iOS使用贝塞尔曲线画圆角及指定位置圆角.md)<br />
+[layer设置指定圆角或者设定一个或几个圆角](layer/layer设置指定圆角或者设定一个或几个圆角.md)<br />
 
 ## plist
 
