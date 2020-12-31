@@ -49,6 +49,7 @@ This is a repository of records about problems encountered in iOS development
 [iOS设置圆角](layer/iOS设置圆角.md)<br />
 [iOS使用贝塞尔曲线画圆角及指定位置圆角](layer/iOS使用贝塞尔曲线画圆角及指定位置圆角.md)<br />
 [layer设置指定圆角或者设定一个或几个圆角](layer/layer设置指定圆角或者设定一个或几个圆角.md)<br />
+[clipToBounds与maskToBounds的区别](layer/clipToBounds与maskToBounds的区别.md)<br />
 
 ## plist
 
