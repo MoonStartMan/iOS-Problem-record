@@ -139,6 +139,7 @@ This is a repository of records about problems encountered in iOS development
 [iOS-NSIndexSet和NSMutableIndexSet](Objective-C补充/iOS-NSIndexSet和NSMutableIndexSet.md)<br />
 [atomatic和nonatomic区别和理解](Objective-C补充/atomatic和nonatomic区别和理解.md)<br />
 [Objective-C中的NULL与nil](Objective-C补充/Objective-C中的NULL与nil.md)<br />
+[Objective-C程序编译、连接、执行](Objective-C补充/Objective-C程序编译、连接、执行.md)<br />
 
 ## 生命周期
 
