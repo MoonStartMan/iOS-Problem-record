@@ -79,7 +79,9 @@ This is a repository of records about problems encountered in iOS development
 [UICollectionViewCell点击事件](UICollectionView/UICollectionViewCell点击事件.md)<br />
 [UICollectionView设置间距技巧](UICollectionview/UICollectionView设置间距技巧.md)<br />
 [iOS开发-tableView/collectionView获取当前点击的cell](UICollectionview/iOS开发-tableView/collectionView获取当前点击的cell.md)<br />
-[UICollectionView-自定义UICollectionViewFlowLayout](UICollectionView/UICollectionView-自定义UICollectionViewFlowLayout.md)
+[UICollectionView-自定义UICollectionViewFlowLayout](UICollectionView/UICollectionView-自定义UICollectionViewFlowLayout.md)<br />
+[indexPath.row 转换为数字,以及转换为A,B,C,D](UICollectionView/indexPath.row 转换为数字,以及转换为A,B,C,D.md)<br />
+[UICollectionView重用时的视图重叠](UICollectionView/UICollectionView重用时的视图重叠.md)<br />
 
 ## UIImageView
 
