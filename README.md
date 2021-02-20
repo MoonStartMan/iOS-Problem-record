@@ -144,6 +144,9 @@ This is a repository of records about problems encountered in iOS development
 [atomatic和nonatomic区别和理解](Objective-C补充/atomatic和nonatomic区别和理解.md)<br />
 [Objective-C中的NULL与nil](Objective-C补充/Objective-C中的NULL与nil.md)<br />
 [Objective-C程序编译、连接、执行](Objective-C补充/Objective-C程序编译、连接、执行.md)<br />
+[OC里.和->的用法区别](Objective-C补充/OC里.和->的用法区别.md)<br />
+[Objective-C中@synthesize合成变量名以及使用方法](Objective-C补充/Objective-C中@synthesize合成变量名以及使用方法.md)<br />
+[outlet与action](Objective-C补充/outlet与action.md)<br />
 
 ## 生命周期
 
