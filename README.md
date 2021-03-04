@@ -188,3 +188,7 @@ This is a repository of records about problems encountered in iOS development
 ## iOS布局
 
 [iOS布局-autoresizingMask](iOS布局/iOS布局-autoresizingMask.md)<br />
+
+## UIResponder
+
+[UIResponder](UIResponder/UIResponder.md)<br />
