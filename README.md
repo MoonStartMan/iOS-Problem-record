@@ -149,6 +149,7 @@ This is a repository of records about problems encountered in iOS development
 [OC里.和->的用法区别](Objective-C补充/OC里.和->的用法区别.md)<br />
 [Objective-C中@synthesize合成变量名以及使用方法](Objective-C补充/Objective-C中@synthesize合成变量名以及使用方法.md)<br />
 [outlet与action](Objective-C补充/outlet与action.md)<br />
+[iOS-Protocol协议的使用](Objective-C补充/iOS-Protocol协议的使用.md)<br />
 
 ## 生命周期
 
