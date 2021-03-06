@@ -194,3 +194,7 @@ This is a repository of records about problems encountered in iOS development
 ## UIResponder
 
 [UIResponder](UIResponder/UIResponder.md)<br />
+
+## frame与bounds
+
+[frame与bounds](frame与bounds/frame和bounds的区别.md)<br />
