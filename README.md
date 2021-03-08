@@ -198,3 +198,11 @@ This is a repository of records about problems encountered in iOS development
 ## frame与bounds
 
 [frame与bounds](frame与bounds/frame和bounds的区别.md)<br />
+
+## UIAlertController
+
+[iOS-自动消失提示框的实现](UIAlertController/iOS-自动消失提示框的实现.md)<br />
+
+## UIPasteboard
+
+[iOS开发UIPasteboard的简单实用](UIPasteboard/iOS开发UIPasteboard的简单实用.md)<br />
