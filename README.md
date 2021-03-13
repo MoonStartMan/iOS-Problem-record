@@ -152,6 +152,7 @@ This is a repository of records about problems encountered in iOS development
 [Objective-C中@synthesize合成变量名以及使用方法](Objective-C补充/Objective-C中@synthesize合成变量名以及使用方法.md)<br />
 [outlet与action](Objective-C补充/outlet与action.md)<br />
 [iOS-Protocol协议的使用](Objective-C补充/iOS-Protocol协议的使用.md)<br />
+[iOS-单例模式](Objective-C补充/iOS-单例模式.md)<br />
 
 ## 生命周期
 
