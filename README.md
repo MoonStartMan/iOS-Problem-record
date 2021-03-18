@@ -6,14 +6,14 @@
 
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
-| | Objective-C类问题 | 14 | / |
+| | Objective-C类问题 | 15 | / |
 | | UIKit类问题 | 75 | / |
 | | Cocoapods类问题 | 1 | / |
 | | Xcode类问题 | 1 | / |
 | | Debugger类问题 | 1 | / |
 | | 报错类问题 | 2 | / |
 | | 其他问题 | 4 | / |
-| 合计 | / | / | 98 |
+| 合计 | / | / | 99 |
 
 
 
@@ -170,6 +170,7 @@
 [iOS-单例模式](Objective-C补充/iOS-单例模式.md)<br />
 [_weak typeof(self) weakSelf = self](Objective-C补充/_weak typeof(self) weakSelf = self.md)<br />
 [iOS-MAXFLOAT常量的使用](Objective-C补充/iOS-MAXFLOAT常量的使用.md)<br />
+[NS_UNAVAILABLE和NS_DESIGNATED_INITIALIZER关键自定义类的初始化方法](Objective-C补充/NS_UNAVAILABLE和NS_DESIGNATED_INITIALIZER关键自定义类的初始化方法.md)<br />
 
 ### 生命周期
 
