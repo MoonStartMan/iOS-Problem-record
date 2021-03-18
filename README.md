@@ -6,14 +6,14 @@
 
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
-| | Objective-C类问题 | 12 | / |
+| | Objective-C类问题 | 13 | / |
 | | UIKit类问题 | 75 | / |
 | | Cocoapods类问题 | 1 | / |
 | | Xcode类问题 | 1 | / |
 | | Debugger类问题 | 1 | / |
 | | 报错类问题 | 2 | / |
 | | 其他问题 | 4 | / |
-| 合计 | / | / | 96 |
+| 合计 | / | / | 97 |
 
 
 
@@ -168,6 +168,7 @@
 [outlet与action](Objective-C补充/outlet与action.md)<br />
 [iOS-Protocol协议的使用](Objective-C补充/iOS-Protocol协议的使用.md)<br />
 [iOS-单例模式](Objective-C补充/iOS-单例模式.md)<br />
+[_weak typeof(self) weakSelf = self](Objective-C补充/_weak typeof(self) weakSelf = self.md)<br />
 
 ### 生命周期
 
