@@ -7,13 +7,13 @@
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
 | | Objective-C类问题 | 15 | / |
-| | UIKit类问题 | 75 | / |
+| | UIKit类问题 | 76 | / |
 | | Cocoapods类问题 | 1 | / |
 | | Xcode类问题 | 1 | / |
 | | Debugger类问题 | 1 | / |
 | | 报错类问题 | 2 | / |
 | | 其他问题 | 4 | / |
-| 合计 | / | / | 99 |
+| 合计 | / | / | 100 |
 
 
 
@@ -125,6 +125,7 @@
 [UIView设置背景图](UIView/UIView设置背景图.md)<br />
 [convertRecttoView和convertRectfromView方法浅析](UIView/convertRecttoView和convertRectfromView方法浅析.md)<br />
 [UIViewController中loadView和viewDidLoad调用时机](UIView/UIViewController中loadView和viewDidLoad调用时机.md)<br />
+[iOS视图切换bringSubviewToFront和sendSubviewToBack](UIView/iOS视图切换bringSubviewToFront和sendSubviewToBack.md)<br />
 
 ### UITableView
 
