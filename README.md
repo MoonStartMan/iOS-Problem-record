@@ -6,14 +6,14 @@
 
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
-| | Objective-C类问题 | 16 | / |
+| | Objective-C类问题 | 17 | / |
 | | UIKit类问题 | 76 | / |
 | | Cocoapods类问题 | 1 | / |
 | | Xcode类问题 | 1 | / |
 | | Debugger类问题 | 1 | / |
 | | 报错类问题 | 2 | / |
 | | 其他问题 | 4 | / |
-| 合计 | / | / | 101 |
+| 合计 | / | / | 102 |
 
 
 
@@ -173,6 +173,7 @@
 [iOS-MAXFLOAT常量的使用](Objective-C补充/iOS-MAXFLOAT常量的使用.md)<br />
 [NS_UNAVAILABLE和NS_DESIGNATED_INITIALIZER关键自定义类的初始化方法](Objective-C补充/NS_UNAVAILABLE和NS_DESIGNATED_INITIALIZER关键自定义类的初始化方法.md)<br />
 [iOS-addObject](Objective-C补充/iOS-addObject.md)<br />
+[OC中__kindof的用法](Objective-C补充/OC中__kindof的用法.md)<br />
 
 ### 生命周期
 
