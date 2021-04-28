@@ -7,14 +7,14 @@
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
 | | Objective-C类问题 | 18 | / |
-| | UIKit类问题 | 76 | / |
+| | UIKit类问题 | 77 | / |
 | | Cocoapods类问题 | 1 | / |
 | | Xcode类问题 | 1 | / |
 | | Debugger类问题 | 1 | / |
 | | 报错类问题 | 2 | / |
 | | 其他问题 | 4 | / |
 | | 动画问题 | 2 | / |
-| 合计 | / | / | 105 |
+| 合计 | / | / | 106 |
 
 
 
@@ -127,6 +127,7 @@
 [convertRecttoView和convertRectfromView方法浅析](UIView/convertRecttoView和convertRectfromView方法浅析.md)<br />
 [UIViewController中loadView和viewDidLoad调用时机](UIView/UIViewController中loadView和viewDidLoad调用时机.md)<br />
 [iOS视图切换bringSubviewToFront和sendSubviewToBack](UIView/iOS视图切换bringSubviewToFront和sendSubviewToBack.md)<br />
+[ios子视图获取父视图的视图控制器的方法](UIView/ios子视图获取父视图的视图控制器的方法.md)<br />
 
 ### UITableView
 
