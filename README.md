@@ -14,7 +14,8 @@
 | | 报错类问题 | 2 | / |
 | | 其他问题 | 4 | / |
 | | 动画问题 | 2 | / |
-| 合计 | / | / | 106 |
+| | 相册类问题 | 1 | / |
+| 合计 | / | / | 107 |
 
 
 
@@ -250,3 +251,7 @@
 ## NSAttributedString
 
 [NSAttributedString](NSAttributedString/NSAttributedString.md)
+
+## iOS开发获取系统相册最后一张图片、截屏广播
+
+[iOS开发获取系统相册最后一张图片、截屏广播](相册类问题/iOS开发获取系统相册最后一张图片、截屏广播.md)
