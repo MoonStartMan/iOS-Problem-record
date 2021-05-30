@@ -7,7 +7,7 @@
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
 | | Objective-C类问题 | 18 | / |
-| | UIKit类问题 | 78 | / |
+| | UIKit类问题 | 79 | / |
 | | Cocoapods类问题 | 1 | / |
 | | Xcode类问题 | 1 | / |
 | | Debugger类问题 | 1 | / |
@@ -15,7 +15,7 @@
 | | 其他问题 | 4 | / |
 | | 动画问题 | 2 | / |
 | | 相册类问题 | 1 | / |
-| 合计 | / | / | 107 |
+| 合计 | / | / | 108 |
 
 
 
@@ -115,11 +115,14 @@
 ### UIScrollView
 
 [UIScrollView](UIScrollView/UIScrollView.md)<br />
+[UIScrollView滑动监听相关](UIScrollView/UIScrollView滑动监听相关.md)<br />
 
-### UIScrollView
+### UITableView
 
-[UIScrollView](UIScrollView/tableView取消cell默认下划线.md)<br />
-[UIScrollView](UIScrollView/UIScrollView.md)<br />
+[tableView取消cell默认下划线](UITableView/tableView取消cell默认下划线.md)<br />
+[UITableView](UITableView/UITableView.md)<br />
+[UITableView的代理方法](UITableView/UITableView的代理方法.md)<br />
+[UITableView性能优化](UITableView/UITableView性能优化.md)<br />
 
 ### UIView
 
