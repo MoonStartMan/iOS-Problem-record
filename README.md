@@ -6,8 +6,8 @@
 
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
-| | Objective-C类问题 | 18 | / |
-| | UIKit类问题 | 79 | / |
+| | Objective-C类问题 | 19 | / |
+| | UIKit类问题 | 83 | / |
 | | Cocoapods类问题 | 1 | / |
 | | Xcode类问题 | 1 | / |
 | | Debugger类问题 | 1 | / |
@@ -15,7 +15,7 @@
 | | 其他问题 | 4 | / |
 | | 动画问题 | 2 | / |
 | | 相册类问题 | 1 | / |
-| 合计 | / | / | 108 |
+| 合计 | / | / | 112 |
 
 
 
@@ -101,6 +101,8 @@
 [UICollectionView重用时的视图重叠](UICollectionView/UICollectionView重用时的视图重叠.md)<br />
 [UICollectionViewLayout-layoutAttributesForElementsInRect和layoutAttributesForItemAtIndexPath](UICollectionView/UICollectionViewLayout-layoutAttributesForElementsInRect和layoutAttributesForItemAtIndexPath.md) <br />
 [UICollectionView-layoutAttributesForItemAtIndexPath](UICollectionView/UICollectionView-layoutAttributesForItemAtIndexPath.md)<br />
+[UICollectionView跳转到指定位置](UICollectionView/UICollectionView跳转到指定位置.md)<br />
+[UICollectionView-scrollToItemAtIndexPath没有作用解决方法](UICollectionView/UICollectionView-scrollToItemAtIndexPath没有作用解决方法.md)<br />
 
 ### UIImageView
 
@@ -116,6 +118,8 @@
 
 [UIScrollView](UIScrollView/UIScrollView.md)<br />
 [UIScrollView滑动监听相关](UIScrollView/UIScrollView滑动监听相关.md)<br />
+[iOS中应对UIScrollView快速滑动(暴力用户、暴力测试)](UIScrollView/iOS中应对UIScrollView快速滑动(暴力用户、暴力测试).md)<br />
+[iOS判断滑动视图滑动方向(左滑还是右滑、上滑还是下滑)](UIScrollView/iOS判断滑动视图滑动方向(左滑还是右滑、上滑还是下滑).md)<br />
 
 ### UITableView
 
@@ -258,3 +262,7 @@
 ## iOS开发获取系统相册最后一张图片、截屏广播
 
 [iOS开发获取系统相册最后一张图片、截屏广播](相册类问题/iOS开发获取系统相册最后一张图片、截屏广播.md)
+
+## 数学补充
+
+[iOS取整方式](数学补充/iOS取整方式.md)
