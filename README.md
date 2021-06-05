@@ -103,6 +103,7 @@
 [UICollectionView-layoutAttributesForItemAtIndexPath](UICollectionView/UICollectionView-layoutAttributesForItemAtIndexPath.md)<br />
 [UICollectionView跳转到指定位置](UICollectionView/UICollectionView跳转到指定位置.md)<br />
 [UICollectionView-scrollToItemAtIndexPath没有作用解决方法](UICollectionView/UICollectionView-scrollToItemAtIndexPath没有作用解决方法.md)<br />
+[UICollectionView实现水平滑动pagingEnabled分页偏移问题](UICollectionView/UICollectionView实现水平滑动pagingEnabled分页偏移问题.md)<br />
 
 ### UIImageView
 
