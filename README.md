@@ -6,7 +6,7 @@
 
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
-| | Objective-C类问题 | 19 | / |
+| | Objective-C类问题 | 20 | / |
 | | UIKit类问题 | 84 | / |
 | | Cocoapods类问题 | 1 | / |
 | | Xcode类问题 | 1 | / |
@@ -15,7 +15,7 @@
 | | 其他问题 | 4 | / |
 | | 动画问题 | 2 | / |
 | | 相册类问题 | 1 | / |
-| 合计 | / | / | 113 |
+| 合计 | / | / | 114 |
 
 
 
@@ -187,6 +187,7 @@
 [iOS-addObject](Objective-C补充/iOS-addObject.md)<br />
 [OC中__kindof的用法](Objective-C补充/OC中__kindof的用法.md)<br />
 [-(BOOL)shouldInvalidateLayoutForBoundsChange(CGRect)newBounds](Objective-C补充/-(BOOL)shouldInvalidateLayoutForBoundsChange(CGRect)newBounds.md)<br />
+[Objective-C获取随机数](Objective-C补充/Objective-C获取随机数.md)<br />
 
 ### 生命周期
 
