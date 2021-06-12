@@ -7,7 +7,7 @@
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
 | | Objective-C类问题 | 20 | / |
-| | UIKit类问题 | 85 | / |
+| | UIKit类问题 | 86 | / |
 | | Cocoapods类问题 | 1 | / |
 | | Xcode类问题 | 1 | / |
 | | Debugger类问题 | 1 | / |
@@ -15,7 +15,7 @@
 | | 其他问题 | 4 | / |
 | | 动画问题 | 2 | / |
 | | 相册类问题 | 1 | / |
-| 合计 | / | / | 115 |
+| 合计 | / | / | 116 |
 
 
 
@@ -105,6 +105,7 @@
 [UICollectionView跳转到指定位置](UICollectionView/UICollectionView跳转到指定位置.md)<br />
 [UICollectionView-scrollToItemAtIndexPath没有作用解决方法](UICollectionView/UICollectionView-scrollToItemAtIndexPath没有作用解决方法.md)<br />
 [UICollectionView实现水平滑动pagingEnabled分页偏移问题](UICollectionView/UICollectionView实现水平滑动pagingEnabled分页偏移问题.md)<br />
+[UICollectionView中的Delete、insert、move](UICollectionView/UICollectionView中的Delete、insert、move.md)<br/>
 
 ### UIImageView
 
