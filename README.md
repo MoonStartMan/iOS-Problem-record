@@ -7,7 +7,7 @@
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
 | | Objective-C类问题 | 20 | / |
-| | UIKit类问题 | 86 | / |
+| | UIKit类问题 | 87 | / |
 | | Cocoapods类问题 | 1 | / |
 | | Xcode类问题 | 1 | / |
 | | Debugger类问题 | 1 | / |
@@ -15,7 +15,7 @@
 | | 其他问题 | 4 | / |
 | | 动画问题 | 2 | / |
 | | 相册类问题 | 1 | / |
-| 合计 | / | / | 116 |
+| 合计 | / | / | 117 |
 
 
 
@@ -161,8 +161,10 @@
 
 ### UITextFiled
 
-[UITextFiled](UITextFiled/UITextFiled.md)<br />
+[UITextField](UITextField/UITextField.md)<br />
 [iOS正则表达式判断UITextField的输入内容](UITextFiled/iOS正则表达式判断UITextField的输入内容.md)<br />
+[UITextField设置placeholder的颜色](UITextFiled/UITextField设置placeholder的颜色.md)<br/>
+[iOS-UITextField设置边距](UITextField)(iOS-UITextField设置边距.md)<br/>
 
 ### 页面跳转的几种方式
 
