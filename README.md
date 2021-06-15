@@ -12,10 +12,10 @@
 | | Xcode类问题 | 1 | / |
 | | Debugger类问题 | 1 | / |
 | | 报错类问题 | 2 | / |
-| | 其他问题 | 4 | / |
+| | 其他问题 | 5 | / |
 | | 动画问题 | 2 | / |
 | | 相册类问题 | 1 | / |
-| 合计 | / | / | 117 |
+| 合计 | / | / | 118 |
 
 
 
@@ -276,3 +276,7 @@
 ## 特效
 
 [iOS中用UIVisualEffectView实现高斯模糊视图(毛玻璃效果)](特效/iOS中用UIVisualEffectView实现高斯模糊视图(毛玻璃效果).md)<br />
+
+## Block
+
+[iOS开发使用Block在两个界面之间传值(Block高级用法 Block传值)](Block/iOS开发使用Block在两个界面之间传值(Block高级用法 Block传值).md)<br />
