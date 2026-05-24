@@ -1,288 +1,297 @@
 # iOS-Problem-record
 
-**This is a repository of records about problems encountered in iOS development**
+<p align="center">
+  <img src="https://img.shields.io/badge/Objective--C-blue.svg" alt="Objective-C">
+  <img src="https://img.shields.io/badge/iOS-9.0+-blue.svg" alt="iOS 9.0+">
+  <img src="https://img.shields.io/badge/Xcode-8.0+-brightgreen.svg" alt="Xcode 8.0+">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License">
+</p>
 
-## 问题合计
+<p align="center">
+  <b>iOS 开发问题记录与解决方案仓库</b>
+</p>
 
-| / | 问题类型 | 问题个数 | 合计 |
-| ---- | ------ | ------ | ------ |
-| | Objective-C类问题 | 20 | / |
-| | UIKit类问题 | 89 | / |
-| | Cocoapods类问题 | 1 | / |
-| | Xcode类问题 | 1 | / |
-| | Debugger类问题 | 1 | / |
-| | 报错类问题 | 2 | / |
-| | 其他问题 | 6 | / |
-| | 动画问题 | 2 | / |
-| | 相册类问题 | 1 | / |
-| 合计 | / | / | 121 |
+## 项目简介
 
+这是一个记录 iOS (Objective-C) 开发过程中遇到的各种问题及其解决方案的仓库。本仓库涵盖了从基础 UI 到高级功能的各类问题，旨在帮助 iOS 开发者快速定位和解决开发中遇到的常见问题。
 
+## 问题统计
 
-### 获取设备属性
+| 问题类型 | 问题数量 | 状态 |
+|---------|---------|------|
+| Objective-C 类问题 | 20 | 持续更新 |
+| UIKit 类问题 | 89 | 持续更新 |
+| Cocoapods 类问题 | 1 | 持续更新 |
+| Xcode 类问题 | 1 | 持续更新 |
+| Debugger 类问题 | 1 | 持续更新 |
+| 报错类问题 | 2 | 持续更新 |
+| 其他问题 | 6 | 持续更新 |
+| 动画问题 | 2 | 持续更新 |
+| 相册类问题 | 1 | 持续更新 |
+| **合计** | **121+** | 持续更新 |
 
-[获取设备属性](获取设备属性/iOS获取设备屏幕的宽高和状态栏的宽高.md)<br />
+## 内容分类
 
-### 手势
+### Objective-C 基础
+涵盖 Objective-C 语言的核心概念和常见问题：
 
-[iOS-给视图添加手势](手势/iOS-给视图添加手势.md)<br />
-[使用手势对UIImageView进行缩放、旋转和移动](手势/使用手势对UIImageView进行缩放、旋转和移动.md)<br />
-[iOS实现拖拽](手势/iOS实现拖拽.md)<br />
+- 属性修饰符详解 (strong, weak, copy, assign)
+- Block 使用与循环引用
+- KVO/KVC 使用
+- 内存管理
+- Runtime 机制
+- 多线程编程
+
+### UIKit
+UIKit 开发中常见的问题和解决方案：
+
+#### 视图相关
+- UIView 基础操作
+- 获取设备屏幕尺寸
+- 状态栏高度获取
+- 适配 iPhone X 及以上机型
+
+#### 控件使用
+- UIButton 创建与点击事件
+- UILabel 富文本设置
+- UIImageView 图片处理
+- UITextField 输入处理
+- UIScrollView 滚动视图
+- UITableView 表格视图
+- UICollectionView 集合视图
+
+#### 布局相关
+- Auto Layout 约束设置
+- Masonry 使用技巧
+- 自适应布局
+- 屏幕旋转处理
+
+#### 动画效果
+- UIView 动画
+- Core Animation
+- 转场动画
+- 自定义动画
+
+### 手势处理
+- 添加各种手势识别器
+- 手势冲突处理
+- 捏合缩放实现
+- 拖拽功能实现
 
 ### 网络请求
-
-[网络模型](网络请求/网络模型.md) <br />
-[iOS请求接收数据](网络请求/iOS请求接收数据.md)<br />
-
-### 相关计算
-
-[计算字体的Size](相关计算/计算字体的Size.md)<br />
-
-### 字体设置
-
-[iOS设置字体属性](字体设置/iOS设置字体属性.md)<br />
-[iOS设置自定义字体](字体设置/iOS设置自定义字体.md)<br />
-[iOS字体大小自适应](字体设置/iOS字体大小自适应.md)<br />
-[iOS富文本设置](字体设置/iOS富文本设置.md)<br />
-
-### 自定义组件
-
-[iOS自定义组件](字体设置/iOS自定义组件.md)<br />
-
-### cocoapods
-
-[cocoapods](CoCoapods/cocoapods安装及使用.md)<br />
-
-### Demo相关
-
-[iOS中设置头像选择框](Demo相关/iOS中设置头像选择框.md)<br />
-
-### error
-
-[iOS实战项目报错](error/iOS实战项目报错.md)<br />
-[找不到UIWindow解决办法](error/找不到UIWindow解决办法.md)<br />
-
-### layer
-
-[iOS实战项目报错](layer/iOS实战项目报错.md)<br />
-[iOS设置圆角](layer/iOS设置圆角.md)<br />
-[iOS使用贝塞尔曲线画圆角及指定位置圆角](layer/iOS使用贝塞尔曲线画圆角及指定位置圆角.md)<br />
-[layer设置指定圆角或者设定一个或几个圆角](layer/layer设置指定圆角或者设定一个或几个圆角.md)<br />
-[clipToBounds与maskToBounds的区别](layer/clipToBounds与maskToBounds的区别.md)<br />
-[iOS-layer设置阴影](layer/iOS-layer设置阴影.md)<br />
-[iOS给UI控件画虚线](layer/iOS给UI控件画虚线.md)<br />
-
-### plist
-
-[iOS-通过plist保存数据](plist/iOS-通过plist保存数据.md)<br />
-[iOS重新设置info.plist路径](plist/iOS重新设置info.plist路径.md)<br />
-
-### StoryBoard
-
-[iOS13移除StoryBoard](StoryBoard/iOS13移除StoryBoard.md)<br />
-[iOS设置进入主界面](StoryBoard/iOS设置进入主界面.md)<br />
-[iOS设置APP图标](StoryBoard/iOS设置APP图标.md)<br />
-[iOS跳转到指定页面](StoryBoard/iOS跳转到指定页面.md)<br />
-[iOS通过设置启屏页](StoryBoard/iOS通过设置启屏页.md)<br />
-
-### UIButton
-
-[for循环动态创建UIButton并赋予点击事件](UIButton/for循环动态创建UIButton并赋予点击事件.md)<br />
-[iOS-UIButton同时设置图片及文字](UIButton/iOS-UIButton同时设置图片及文字.md)<br />
-[iOS-UIButton实现跳转页与返回](UIButton/iOS-UIButton实现跳转页与返回.md)<br />
-[iOS设置UIButton](UIButton/iOS设置UIButton.md)<br />
-[UIButton设置图片在上文字在下且水平居中](UIButton/UIButton设置图片在上文字在下且水平居中.md)<br />
-[关于UIButton的UIEdheInsets属性](UIButton/关于UIButton的UIEdheInsets属性.md)<br />
-
-### UICollectionView
-
-[UICollectionViewCell点击事件](UICollectionView/UICollectionViewCell点击事件.md)<br />
-[UICollectionView设置间距技巧](UICollectionview/UICollectionView设置间距技巧.md)<br />
-[iOS开发-tableView/collectionView获取当前点击的cell](UICollectionview/iOS开发-tableView/collectionView获取当前点击的cell.md)<br />
-[UICollectionView-自定义UICollectionViewFlowLayout](UICollectionView/UICollectionView-自定义UICollectionViewFlowLayout.md)<br />
-[indexPath.row转换为数字,以及转换为A,B,C,D](UICollectionView/indexPath.row 转换为数字,以及转换为A,B,C,D.md)<br />
-[UICollectionView重用时的视图重叠](UICollectionView/UICollectionView重用时的视图重叠.md)<br />
-[UICollectionViewLayout-layoutAttributesForElementsInRect和layoutAttributesForItemAtIndexPath](UICollectionView/UICollectionViewLayout-layoutAttributesForElementsInRect和layoutAttributesForItemAtIndexPath.md) <br />
-[UICollectionView-layoutAttributesForItemAtIndexPath](UICollectionView/UICollectionView-layoutAttributesForItemAtIndexPath.md)<br />
-[UICollectionView跳转到指定位置](UICollectionView/UICollectionView跳转到指定位置.md)<br />
-[UICollectionView-scrollToItemAtIndexPath没有作用解决方法](UICollectionView/UICollectionView-scrollToItemAtIndexPath没有作用解决方法.md)<br />
-[UICollectionView实现水平滑动pagingEnabled分页偏移问题](UICollectionView/UICollectionView实现水平滑动pagingEnabled分页偏移问题.md)<br />
-[UICollectionView中的Delete、insert、move](UICollectionView/UICollectionView中的Delete、insert、move.md)<br/>
-
-### UIImageView
-
-[通过代码拉伸图片](UIImageView/通过代码拉伸图片.md)<br />
-[iOS设置图片](UIimageView/iOS设置图片.md)<br />
-[iOS设置UIImageView背景图片以及大小自适应](UIImageView/iOS设置UIImageView背景图片以及大小自适应.md)<br />
-[UIImage拉伸图片](UIImageView/UIImage拉伸图片.md)<br />
-[UIImage图片重新绘制背景色](UIImageView/UIImage图片重新绘制背景色.md)<br />
-[iOS-UIimageView的contentMode属性](UIImageView/iOS-UIimageView的contentMode属性.md)<br />
-[iOS-UIImage渲染模式-imageWithRenderingMode](UIImageView/iOS-UIImage渲染模式-imageWithRenderingMode.md)<br />
-
-### UIScrollView
-
-[UIScrollView](UIScrollView/UIScrollView.md)<br />
-[UIScrollView滑动监听相关](UIScrollView/UIScrollView滑动监听相关.md)<br />
-[iOS中应对UIScrollView快速滑动(暴力用户、暴力测试)](UIScrollView/iOS中应对UIScrollView快速滑动(暴力用户、暴力测试).md)<br />
-[iOS判断滑动视图滑动方向(左滑还是右滑、上滑还是下滑)](UIScrollView/iOS判断滑动视图滑动方向(左滑还是右滑、上滑还是下滑).md)<br />
-
-### UITableView
-
-[tableView取消cell默认下划线](UITableView/tableView取消cell默认下划线.md)<br />
-[UITableView](UITableView/UITableView.md)<br />
-[UITableView的代理方法](UITableView/UITableView的代理方法.md)<br />
-[UITableView性能优化](UITableView/UITableView性能优化.md)<br />
-
-### UIView
-
-[iOSview的frame和bounds之区别位置和大小](UIView/iOSview的frame和bounds之区别位置和大小.md)<br />
-[UIView设置背景图](UIView/UIView设置背景图.md)<br />
-[convertRecttoView和convertRectfromView方法浅析](UIView/convertRecttoView和convertRectfromView方法浅析.md)<br />
-[UIViewController中loadView和viewDidLoad调用时机](UIView/UIViewController中loadView和viewDidLoad调用时机.md)<br />
-[iOS视图切换bringSubviewToFront和sendSubviewToBack](UIView/iOS视图切换bringSubviewToFront和sendSubviewToBack.md)<br />
-[ios子视图获取父视图的视图控制器的方法](UIView/ios子视图获取父视图的视图控制器的方法.md)<br />
-
-### UITableView
-
-[UITableView的代理方法](UITableView/UITableView的代理方法.md)<br />
-[tableView取消cell默认下划线](UITableView/tableView取消cell默认下划线.md)<br />
-[UITableView](UITableView/UITableView.md)<br />
-[UITableView性能优化](UITableView/UITableView性能优化.md)<br />
-
-### UISwitch
-
-[UISwitch改变系统默认的颜色](UISwitch/UISwitch改变系统默认的颜色.md)<br />
-
-### 导航栏设置
-
-[iOS导航栏相关设置](导航栏设置/iOS导航栏相关设置.md)<br />
-
-### 相关函数知识
-
-[performSelector和cancelPreviousPerformRequestsWithTarget用法](相关函数知识/performSelector和cancelPreviousPerformRequestsWithTarget用法.md)<br />
-
-### UITextFiled
-
-[UITextField](UITextField/UITextField.md)<br />
-[iOS正则表达式判断UITextField的输入内容](UITextFiled/iOS正则表达式判断UITextField的输入内容.md)<br />
-[UITextField设置placeholder的颜色](UITextFiled/UITextField设置placeholder的颜色.md)<br/>
-[iOS-UITextField设置边距](UITextField)(iOS-UITextField设置边距.md)<br/>
-
-### 页面跳转的几种方式
-
-[iOS页面跳转的几种方式](页面跳转的几种方式/iOS页面跳转的几种方式.md) <br />
-
-### Objective-C 补充
-
-[Objective-C中new与allocinit的区别](Objective-C补充/Objective-C中new与allocinit的区别.md) <br />
-[NSMakeRange](Objective-C补充/NSMakeRange.md)<br />
-[NSRange](Objective-C补充/NSRange.md)<br />
-[iOS-NSIndexSet和NSMutableIndexSet](Objective-C补充/iOS-NSIndexSet和NSMutableIndexSet.md)<br />
-[atomatic和nonatomic区别和理解](Objective-C补充/atomatic和nonatomic区别和理解.md)<br />
-[Objective-C中的NULL与nil](Objective-C补充/Objective-C中的NULL与nil.md)<br />
-[Objective-C程序编译、连接、执行](Objective-C补充/Objective-C程序编译、连接、执行.md)<br />
-[OC里.和->的用法区别](Objective-C补充/OC里.和->的用法区别.md)<br />
-[Objective-C中@synthesize合成变量名以及使用方法](Objective-C补充/Objective-C中@synthesize合成变量名以及使用方法.md)<br />
-[outlet与action](Objective-C补充/outlet与action.md)<br />
-[iOS-Protocol协议的使用](Objective-C补充/iOS-Protocol协议的使用.md)<br />
-[iOS-单例模式](Objective-C补充/iOS-单例模式.md)<br />
-[_weak typeof(self) weakSelf = self](Objective-C补充/_weak typeof(self) weakSelf = self.md)<br />
-[iOS-MAXFLOAT常量的使用](Objective-C补充/iOS-MAXFLOAT常量的使用.md)<br />
-[NS_UNAVAILABLE和NS_DESIGNATED_INITIALIZER关键自定义类的初始化方法](Objective-C补充/NS_UNAVAILABLE和NS_DESIGNATED_INITIALIZER关键自定义类的初始化方法.md)<br />
-[iOS-addObject](Objective-C补充/iOS-addObject.md)<br />
-[OC中__kindof的用法](Objective-C补充/OC中__kindof的用法.md)<br />
-[-(BOOL)shouldInvalidateLayoutForBoundsChange(CGRect)newBounds](Objective-C补充/-(BOOL)shouldInvalidateLayoutForBoundsChange(CGRect)newBounds.md)<br />
-[Objective-C获取随机数](Objective-C补充/Objective-C获取随机数.md)<br />
-
-### 生命周期
-
-[loadView、viewDidLoad及viewDidUnload的关系](生命周期/loadView、viewDidLoad及viewDidUnload的关系.md) <br />
-[iOS-APP的生命周期及界面的生命周期](生命周期/iOS-APP的生命周期及界面的生命周期.md)<br />
-
-### Xcode设置
-
-[xCode删除SceneDelegate以及main.storyborad](Xcode设置/xCode删除SceneDelegate以及main.storyborad.md)<br />
-
-### UILabel
-
-[UILabel自适应宽高](UILabel/UILabel自适应宽高.md)<br />
-[UILabel相关知识](UILabel/UILabel相关知识.md)<br />
-[设置UILabel内边距](UILabel/设置UILabel内边距.md)<br />
-
-### Masonry
-
-[iOS-Masonry详解](Masonry/iOS-Masonry详解.md)<br />
-
-### 相关属性补充
-
-[intrinsicContentSize](相关属性补充/intrinsicContentSize.md)<br />
-
-### iOS-Debugger
-
-[iOS断言](iOS-Debugger/iOS断言.md)<br />
-
-### UINavigationController
-
-[UINavigationController的使用](UINavigationController/UINavigationController的使用.md)<br />
-
-### UIWindow
-
-[iOS-UIWindowLevel](UIWindow/iOS-UIWindowLevel.md)<br />
-[UIWindow 和 UIScreen](UIWindow/UIWindow 和 UIScreen.md)<br />
-
-### iOS布局
-
-[iOS布局-autoresizingMask](iOS布局/iOS布局-autoresizingMask.md)<br />
-
-### UIResponder
-
-[UIResponder](UIResponder/UIResponder.md)<br />
-
-### frame与bounds
-
-[frame与bounds](frame与bounds/frame和bounds的区别.md)<br />
-
-### UIAlertController
-
-[iOS-自动消失提示框的实现](UIAlertController/iOS-自动消失提示框的实现.md)<br />
-
-### UIPasteboard
-
-[iOS开发UIPasteboard的简单实用](UIPasteboard/iOS开发UIPasteboard的简单实用.md)<br />
-
-### NSNotificationCenter
-
-[NSNotificationCenter](NSNotificationCenter/NSNotificationCenter.md)<br />
-
-## NSUserDefaults
-
-[iOS-NSUserDefaults数据存储](NSUserDefaults/iOS-NSUserDefaults数据存储.md)<br />
-
-## 动画
-
-[CABasicAnimation动画结束后的函数调用](动画/CABasicAnimation动画结束后的函数调用.md)<br />
-[iOS使用CAShapeLayer，UIBezierPath，CABasicAnimation画百分比圆圈](动画/iOS使用CAShapeLayer，UIBezierPath，CABasicAnimation画百分比圆圈.md)<br />
-
-## NSAttributedString
-
-[NSAttributedString](NSAttributedString/NSAttributedString.md)
-
-## iOS开发获取系统相册最后一张图片、截屏广播
-
-[iOS开发获取系统相册最后一张图片、截屏广播](相册类问题/iOS开发获取系统相册最后一张图片、截屏广播.md)
-
-## 数学补充
-
-[iOS取整方式](数学补充/iOS取整方式.md)
-
-## 特效
-
-[iOS中用UIVisualEffectView实现高斯模糊视图(毛玻璃效果)](特效/iOS中用UIVisualEffectView实现高斯模糊视图(毛玻璃效果).md)<br />
-
-## Block
-
-[iOS开发使用Block在两个界面之间传值(Block高级用法 Block传值)](Block/iOS开发使用Block在两个界面之间传值(Block高级用法 Block传值).md)<br />
-
-## 系统方法
-
-[iOS-layoutSubviews和layoutIfNeeded](系统方法/iOS-layoutSubviews和layoutIfNeeded.md)<br />
+- NSURLSession 使用
+- AFNetworking 集成
+- 网络模型封装
+- 数据解析
+
+### 数据存储
+- NSUserDefaults 使用
+- Plist 文件操作
+- Core Data 基础
+- 文件读写
+
+### Cocoapods
+- CocoaPods 安装配置
+- Podfile 编写
+- 常见问题解决
+- 私有库创建
+
+### Xcode 使用
+- 常见编译错误
+- 调试技巧
+- 断点使用
+- Instruments 性能分析
+
+### 项目配置
+- Info.plist 配置
+- 图标和启动图设置
+- 权限申请
+- 证书配置
+
+## 如何使用
+
+1. **浏览问题**: 根据问题类型进入相应目录
+2. **搜索问题**: 使用 GitHub 搜索功能查找特定问题
+3. **提交问题**: 如果你遇到了新问题，欢迎提交 Issue 或 PR
+
+## 问题示例
+
+### 获取设备屏幕尺寸
+
+```objc
+// 屏幕宽度
+CGFloat screenWidth = [UIScreen mainScreen].bounds.size.width;
+
+// 屏幕高度
+CGFloat screenHeight = [UIScreen mainScreen].bounds.size.height;
+
+// 状态栏高度 (适配 iPhone X 及以上)
+CGFloat statusBarHeight;
+if (@available(iOS 13.0, *)) {
+    UIWindowScene *windowScene = (UIWindowScene *)[UIApplication sharedApplication].connectedScenes.allObjects.firstObject;
+    statusBarHeight = windowScene.statusBarManager.statusBarFrame.size.height;
+} else {
+    statusBarHeight = [UIApplication sharedApplication].statusBarFrame.size.height;
+}
+
+// 导航栏高度
+CGFloat navBarHeight = 44.0;
+
+// TabBar 高度 (适配 iPhone X 及以上)
+CGFloat tabBarHeight = (statusBarHeight > 20) ? 83.0 : 49.0;
+
+// 安全区域高度
+CGFloat safeAreaBottom = (statusBarHeight > 20) ? 34.0 : 0;
+```
+
+### UILabel 富文本设置
+
+```objc
+// 创建富文本
+NSString *text = @"这是普通文字，这是红色文字，这是粗体文字";
+NSMutableAttributedString *attributedString = [[NSMutableAttributedString alloc] initWithString:text];
+
+// 设置颜色
+[attributedString addAttribute:NSForegroundColorAttributeName 
+                         value:[UIColor redColor] 
+                         range:NSMakeRange(7, 6)];
+
+// 设置字体
+[attributedString addAttribute:NSFontAttributeName 
+                         value:[UIFont boldSystemFontOfSize:18] 
+                         range:NSMakeRange(16, 6)];
+
+// 设置下划线
+[attributedString addAttribute:NSUnderlineStyleAttributeName 
+                         value:@(NSUnderlineStyleSingle) 
+                         range:NSMakeRange(0, text.length)];
+
+// 应用到 Label
+UILabel *label = [[UILabel alloc] init];
+label.attributedText = attributedString;
+```
+
+### 设置圆角 (layer)
+
+```objc
+// 设置圆角
+UIView *view = [[UIView alloc] init];
+view.layer.cornerRadius = 10.0;
+view.layer.masksToBounds = YES;
+
+// 设置指定圆角 (iOS 11+)
+UIBezierPath *path = [UIBezierPath bezierPathWithRoundedRect:view.bounds 
+                                           byRoundingCorners:UIRectCornerTopLeft | UIRectCornerTopRight 
+                                                 cornerRadii:CGSizeMake(10, 10)];
+CAShapeLayer *maskLayer = [[CAShapeLayer alloc] init];
+maskLayer.frame = view.bounds;
+maskLayer.path = path.CGPath;
+view.layer.mask = maskLayer;
+
+// 设置阴影
+view.layer.shadowColor = [UIColor blackColor].CGColor;
+view.layer.shadowOffset = CGSizeMake(0, 2);
+view.layer.shadowOpacity = 0.3;
+view.layer.shadowRadius = 4.0;
+```
+
+### Block 传值
+
+```objc
+// 定义 Block 类型
+typedef void(^ReturnValueBlock)(NSString *value);
+
+// 在发送方声明 Block 属性
+@interface SecondViewController : UIViewController
+@property (nonatomic, copy) ReturnValueBlock returnBlock;
+@end
+
+// 发送数据
+- (void)sendDataBack {
+    if (self.returnBlock) {
+        self.returnBlock(@"返回的数据");
+    }
+    [self.navigationController popViewControllerAnimated:YES];
+}
+
+// 在接收方实现 Block
+- (void)goToSecondVC {
+    SecondViewController *secondVC = [[SecondViewController alloc] init];
+    secondVC.returnBlock = ^(NSString *value) {
+        NSLog(@"接收到的数据: %@", value);
+    };
+    [self.navigationController pushViewController:secondVC animated:YES];
+}
+```
+
+## 技术栈
+
+- **编程语言**: Objective-C
+- **开发环境**: Xcode 8.0+
+- **最低支持系统**: iOS 9.0+
+- **框架**: UIKit, Foundation, Core Animation
+
+## 项目结构
+
+```
+iOS-Problem-record/
+├── Objective-C/
+│   └── ...
+├── UIKit/
+│   ├── UIButton/
+│   ├── UILabel/
+│   ├── UIImageView/
+│   ├── UITableView/
+│   ├── UICollectionView/
+│   └── ...
+├── 手势/
+│   └── ...
+├── 网络请求/
+│   └── ...
+├── 数据存储/
+│   └── ...
+├── Cocoapods/
+│   └── ...
+├── Xcode/
+│   └── ...
+├── StoryBoard/
+│   └── ...
+├── layer/
+│   └── ...
+└── README.md
+```
+
+## 贡献指南
+
+欢迎贡献你的问题和解决方案！
+
+1. Fork 本仓库
+2. 创建你的问题分支 (`git checkout -b add/new-problem`)
+3. 添加问题描述和解决方案
+4. 提交更改 (`git commit -m 'Add: 问题描述'`)
+5. 推送到分支 (`git push origin add/new-problem`)
+6. 打开 Pull Request
+
+### 提交规范
+
+- 问题描述清晰
+- 提供最小可复现代码
+- 给出完整的解决方案
+- 如有必要，附上截图
+
+## 许可证
+
+本项目采用 MIT 许可证 - 详情请参阅 [LICENSE](LICENSE) 文件
+
+## 致谢
+
+感谢所有为这个项目贡献问题和解决方案的开发者！
+
+## 联系方式
+
+- GitHub: [@MoonStartMan](https://github.com/MoonStartMan)
+- 如有问题或建议，欢迎提交 Issue
+
+---
+
+<p align="center">如果这个项目对您有帮助，请给个 ⭐️ 支持一下！<br>让我们一起完善 iOS 开发知识库！</p>
